@@ -25,9 +25,9 @@ window.Config = {
     introStaticText: "LILO.", // Static text
     introTypingTexts: [ // Set of texts to display in Typing Texts module
         "Zone",
-        "Kids",
-        "Talks",
-        "Etc",
+        "ateliê",
+        "compartilhado",
+        "tecnologia",
         "*"
     ],
 
