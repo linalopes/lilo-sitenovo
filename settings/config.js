@@ -27,6 +27,7 @@ window.Config = {
         "Zone",
         "atelier",
         "compartilhado",
+        "criatividade",
         "tecnologia",
         "*"
     ],
