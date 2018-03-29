@@ -29,6 +29,7 @@ window.Config = {
         "compartilhado",
         "criatividade",
         "tecnologia",
+        "acessível",
         "*"
     ],
 
